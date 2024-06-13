@@ -84,3 +84,11 @@ func main() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ```
+
+### To be done:  
+1- Compare(tuple1, tuple2 tuple) => to compare 2 tuples to be supported to compare with order or without order
+2- Delete(index) ,  DeleteLast()  
+3- Append()  
+4- AddAfter(index)  
+5- AddBefore(index)
+
