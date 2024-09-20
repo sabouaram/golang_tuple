@@ -1,7 +1,7 @@
 # golang_tuple
 A Golang tuple type definition
 
-```
+```go
 package main
 
 import (
